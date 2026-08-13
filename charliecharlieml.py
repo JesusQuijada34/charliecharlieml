@@ -9,9 +9,6 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QVBoxLayout, QWidget,
                              QRadioButton, QButtonGroup, QHBoxLayout, QScrollArea)
 from PyQt5.QtCore import Qt, QTimer, QTranslator, QLocale, QRect, QSize
 from PyQt5.QtGui import QFont, QPainter, QColor, QPixmap, QImage
-import pygame
-from pygame import gfxdraw
-
 # Configuration setup
 CONFIG_DIR = "config"
 CONFIG_FILE = os.path.join(CONFIG_DIR, "settings.json")

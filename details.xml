@@ -1,1 +1,13 @@
-<app><publisher>Influent</publisher><app>charliecharlieml</app><name>Charlie Charlie MultiLingual</name><version>v1-25.08-14.47-danenone</version><with>linux</with><danenone>25.08-14.47</danenone><correlationid>e58ce60e98c80c2c5c21ee568474e872488e930933ba2c04462ecfefc8c357a4</correlationid><rate>PUBLIC CONTENT</rate></app>
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+  <publisher>Influent</publisher>
+  <app>charliecharlieml</app>
+  <name>Charlie Charlie MultiLingual</name>
+  <version>v1.0-26.08-23.43-AlphaCube</version>
+  <correlationid>334b07291b36a8a1666ac4e308e07010547710cad606791a4b3cb69ff422c524</correlationid>
+  <rate>Todas las edades</rate>
+  <author>JesusQuijada34</author>
+  <platform>AlphaCube</platform>
+  <description>Proyecto reparado por MoonFix</description>
+  <year>2026</year>
+</app>

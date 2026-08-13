@@ -1,4 +1,3 @@
 # Dependencias del paquete
 PyQt5
 requests
-pygame
